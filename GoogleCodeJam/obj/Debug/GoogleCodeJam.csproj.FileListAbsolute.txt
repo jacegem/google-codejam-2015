@@ -1,0 +1,6 @@
+C:\D2R\Dev\CodeJam\GoogleCodeJam\GoogleCodeJam\bin\Debug\GoogleCodeJam.exe.config
+C:\D2R\Dev\CodeJam\GoogleCodeJam\GoogleCodeJam\obj\Debug\GoogleCodeJam.csprojResolveAssemblyReference.cache
+C:\D2R\Dev\CodeJam\GoogleCodeJam\GoogleCodeJam\bin\Debug\GoogleCodeJam.exe
+C:\D2R\Dev\CodeJam\GoogleCodeJam\GoogleCodeJam\bin\Debug\GoogleCodeJam.pdb
+C:\D2R\Dev\CodeJam\GoogleCodeJam\GoogleCodeJam\obj\Debug\GoogleCodeJam.exe
+C:\D2R\Dev\CodeJam\GoogleCodeJam\GoogleCodeJam\obj\Debug\GoogleCodeJam.pdb
